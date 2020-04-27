@@ -14,7 +14,7 @@ import io.vertx.ext.web.templ.freemarker.FreeMarkerTemplateEngine;
  *  * Freemarker templates
  *  * Vert.x Web
  *
- * @author <a href="mailto:pmlopes@gmail.com>Paulo Lopes</a>
+ * @author <a href="mailto:pmlopes@gmail.com">Paulo Lopes</a>
  */
 public class Server extends AbstractVerticle {
 
